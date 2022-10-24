@@ -138,3 +138,6 @@ modules.xml
 
 # Ignore whole .idea folder:
 .idea/
+.dccache
+.env
+node-gitlab-2-github.code-workspace

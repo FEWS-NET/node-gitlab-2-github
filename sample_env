@@ -1,0 +1,5 @@
+GITLAB_TOKEN="Gitlab read only token"
+GITHUB_OWNER="user or org"
+GITHUB_TOKEN_OWNER="user running transfer"
+GITHUB_TOKEN="Github read only token"
+GITHUB_REPO="destination repo name"
