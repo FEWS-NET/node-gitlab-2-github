@@ -22,7 +22,7 @@ export default {
     'dodida': 'odida',
   },
   projectmap: {
-    'fewsnet/moodle-alpine': 'FEWS-NET/moodle-alpine-node-gitlab-2-github',
+    '${GITLAB_OWNER}/${GITLAB_REPO}': '${GITHUB_OWNER}/${GITHUB_REPO}',
   },
   s3: {
     accessKeyId: process.env.S3_ACCESS_ID,
