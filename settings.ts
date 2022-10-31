@@ -27,6 +27,7 @@ export default {
     'henock.lulseged': 'henockl',
     'chris.preager': 'techicaltich',
     'joseph.luketelo': 'joseph-luketelo',
+    'jake.stoll': 'Jake-Stoll',
   },
   projectmap: {
     '${GITLAB_OWNER}/${GITLAB_REPO}': '${GITHUB_OWNER}/${GITHUB_REPO}',
