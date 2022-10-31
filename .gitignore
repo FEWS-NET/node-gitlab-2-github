@@ -140,4 +140,4 @@ modules.xml
 .idea/
 .dccache
 .env
-node-gitlab-2-github.code-workspace
+**.code-workspace
