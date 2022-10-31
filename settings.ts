@@ -23,6 +23,10 @@ export default {
     'roger.hunwicks': 'rhunwicks',
     'kisaja': 'jeverling',
     'davenenglish': 'denglish-fews',
+    'akyenze': 'akyenze',
+    'henock.lulseged': 'henockl',
+    'chris.preager': 'techicaltich',
+    'joseph.luketelo': 'joseph-luketelo',
   },
   projectmap: {
     '${GITLAB_OWNER}/${GITLAB_REPO}': '${GITHUB_OWNER}/${GITHUB_REPO}',
