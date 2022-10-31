@@ -1,5 +1,5 @@
-GITLAB_TOKEN="Gitlab read only token"
+GITLAB_TOKEN="Token with api and read_repository scopes"
 GITHUB_OWNER="user or org"
 GITHUB_TOKEN_OWNER="user running transfer"
-GITHUB_TOKEN="Github read only token"
+GITHUB_TOKEN="Token with repo scope"
 GITHUB_REPO="destination repo name"
