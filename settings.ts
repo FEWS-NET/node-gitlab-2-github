@@ -20,6 +20,9 @@ export default {
   },
   usermap: {
     'dodida': 'odida',
+    'roger.hunwicks': 'rhunwicks',
+    'kisaja': 'jeverling',
+    'davenenglish': 'denglish-fews',
   },
   projectmap: {
     '${GITLAB_OWNER}/${GITLAB_REPO}': '${GITHUB_OWNER}/${GITHUB_REPO}',
