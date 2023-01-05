@@ -141,3 +141,4 @@ modules.xml
 .dccache
 .env
 **.code-workspace
+venv
