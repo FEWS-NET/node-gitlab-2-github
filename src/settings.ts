@@ -1,5 +1,5 @@
 export default interface Settings {
-  debug: boolean;
+  dryRun: boolean;
   gitlab: GitlabSettings;
   github: GithubSettings;
   usermap: {
@@ -25,6 +25,7 @@ export default interface Settings {
   useReplacementIssuesForCreationFails: boolean;
   useIssuesForAllMergeRequests: boolean;
   filterByLabel?: string;
+  trimOversizedLabelDescriptions: boolean;
   skipMergeRequestStates: string[];
   skipMatchingComments: string[];
   mergeRequests: {
@@ -51,6 +52,7 @@ export interface GitlabSettings {
   url?: string;
   token: string;
   projectId: number;
+  listArchivedProjects?: boolean;
   sessionCookie: string;
 }
 
@@ -58,4 +60,5 @@ export interface S3Settings {
   accessKeyId: string;
   secretAccessKey: string;
   bucket: string;
+  region: string;
 }
