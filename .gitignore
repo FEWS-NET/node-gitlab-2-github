@@ -138,3 +138,5 @@ modules.xml
 
 # Ignore whole .idea folder:
 .idea/
+.venv
+.env
