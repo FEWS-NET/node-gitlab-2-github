@@ -139,6 +139,6 @@ modules.xml
 # Ignore whole .idea folder:
 .idea/
 .dccache
-.env
+.env*
 **.code-workspace
-venv
+.venv
